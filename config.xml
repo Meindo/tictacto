@@ -1,0 +1,19 @@
+<xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "net.meindert.sytes.Meindert's App"
+    versionCode = "01"
+    version     = "0.1">
+
+<name>Meindert' App</name>
+
+<description>
+    idk my app
+</description>
+
+<author email="contact.meinkillers9@yahoo.com">
+    Meindert Moos
+</author>
+
+</widget>
+
